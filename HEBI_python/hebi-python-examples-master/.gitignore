@@ -1,0 +1,18 @@
+# Virtual Env
+venv/
+
+# PyCharm/JetBrains folders
+.idea/
+
+# Byte compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore hebilog files
+*.hebilog
+
+**/logs
+
+# Example gains output by some examples
+**/my_actuator_gains.xml
